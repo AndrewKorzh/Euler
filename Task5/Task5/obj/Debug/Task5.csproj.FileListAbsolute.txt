@@ -1,0 +1,16 @@
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task5\Task5\bin\Debug\Task5.exe.config
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task5\Task5\bin\Debug\Task5.exe
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task5\Task5\bin\Debug\Task5.pdb
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task5\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task5\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task5\Task5\obj\Debug\Task5.exe
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task5\Task5\obj\Debug\Task5.pdb
+C:\Users\AndrewKorzh\Desktop\Euler\Task5\Task5\bin\Debug\Task5.exe.config
+C:\Users\AndrewKorzh\Desktop\Euler\Task5\Task5\bin\Debug\Task5.exe
+C:\Users\AndrewKorzh\Desktop\Euler\Task5\Task5\bin\Debug\Task5.pdb
+C:\Users\AndrewKorzh\Desktop\Euler\Task5\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task5\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task5\Task5\obj\Debug\Task5.exe
+C:\Users\AndrewKorzh\Desktop\Euler\Task5\Task5\obj\Debug\Task5.pdb
