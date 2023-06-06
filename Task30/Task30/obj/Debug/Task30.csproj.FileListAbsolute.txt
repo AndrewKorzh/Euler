@@ -1,0 +1,8 @@
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task30\Task30\bin\Debug\Task30.exe.config
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task30\Task30\bin\Debug\Task30.exe
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task30\Task30\bin\Debug\Task30.pdb
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task30\Task30\obj\Debug\Task30.csproj.AssemblyReference.cache
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task30\Task30\obj\Debug\Task30.csproj.SuggestedBindingRedirects.cache
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task30\Task30\obj\Debug\Task30.csproj.CoreCompileInputs.cache
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task30\Task30\obj\Debug\Task30.exe
+C:\Users\AndrewKorzh\Desktop\Проект Эйлер c#\Task30\Task30\obj\Debug\Task30.pdb
