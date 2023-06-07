@@ -1,0 +1,8 @@
+C:\Users\AndrewKorzh\Desktop\Euler\Task67\Task67\bin\Debug\Task67.exe.config
+C:\Users\AndrewKorzh\Desktop\Euler\Task67\Task67\bin\Debug\Task67.exe
+C:\Users\AndrewKorzh\Desktop\Euler\Task67\Task67\bin\Debug\Task67.pdb
+C:\Users\AndrewKorzh\Desktop\Euler\Task67\Task67\obj\Debug\Task67.csproj.AssemblyReference.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task67\Task67\obj\Debug\Task67.csproj.SuggestedBindingRedirects.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task67\Task67\obj\Debug\Task67.csproj.CoreCompileInputs.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task67\Task67\obj\Debug\Task67.exe
+C:\Users\AndrewKorzh\Desktop\Euler\Task67\Task67\obj\Debug\Task67.pdb
