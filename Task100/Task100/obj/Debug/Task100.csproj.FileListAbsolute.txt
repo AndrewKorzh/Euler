@@ -1,0 +1,8 @@
+C:\Users\AndrewKorzh\Desktop\Euler\Task100\Task100\bin\Debug\Task100.exe.config
+C:\Users\AndrewKorzh\Desktop\Euler\Task100\Task100\bin\Debug\Task100.exe
+C:\Users\AndrewKorzh\Desktop\Euler\Task100\Task100\bin\Debug\Task100.pdb
+C:\Users\AndrewKorzh\Desktop\Euler\Task100\Task100\obj\Debug\Task100.csproj.AssemblyReference.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task100\Task100\obj\Debug\Task100.csproj.SuggestedBindingRedirects.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task100\Task100\obj\Debug\Task100.csproj.CoreCompileInputs.cache
+C:\Users\AndrewKorzh\Desktop\Euler\Task100\Task100\obj\Debug\Task100.exe
+C:\Users\AndrewKorzh\Desktop\Euler\Task100\Task100\obj\Debug\Task100.pdb
